@@ -1,0 +1,157 @@
+.container {
+    background-color: rgb(211, 205, 205);
+}
+
+.nav1 ul,
+li {
+    list-style-type: none;
+    /* display: inline-flex; */
+    display: inline;
+    padding: 20px;
+    word-spacing: 40px;
+
+
+}
+
+.first {
+    background-color: rgb(10, 82, 10);
+    padding: 30px;
+
+}
+
+#lg {
+    width: 25%;
+}
+
+.third {
+    width: 70%;
+    /* padding: 1%; */
+    /* display: grid; */
+    display: flex;
+    background-color: rgb(196, 190, 190);
+    justify-content: center;
+    margin-left: 100px;
+    padding: 60px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 5px lightblue inset;
+    border-radius: 8px;
+    
+}
+
+#one {
+    height: 150px;
+    width: 150px;
+    /* margin-left: 30%; */
+    float: left;
+    margin-top: 70px;
+}
+#image1{
+    width:360px;
+}
+.out{
+    background-color: rgb(97, 94, 94);
+}
+.words{
+    font-size: x-large;
+}
+.three{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    padding: 10px;
+    
+}
+.sector1{
+    line-height: 30px;
+    border: dotted grey;
+    padding: 30px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-top: 20px;
+}
+.sector2{
+    line-height: 30px;
+    /* border: solid black; */
+    padding: 30px;
+    margin-left: 10px;
+}
+.last{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    padding: 10px;
+}
+.sect3{
+    line-height: 30px;
+    border: dotted grey;
+    padding: 30px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-top: 10px;
+}
+.sect4{
+    line-height: 30px;
+    border: dotted grey;
+    padding: 30px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-top: 20px;
+}
+.sect5{
+    line-height: 30px;
+    padding: 30px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-top: 20px;
+}
+
+.flexing{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+#holder{
+    margin: 30px;
+}
+#button1{
+    padding: 10px;
+    background-color: rgb(112, 105, 105);
+   
+}
+#button2{
+    padding: 10px;
+    background-color: rgb(112, 105, 105);
+}
+.four{
+    background-color: antiquewhite;
+}
+#nav2 ul,li{
+    list-style-type: none;
+    /* display: inline-flex; */
+    /* display: inline; */
+    padding: 1px;
+    
+}
+#logo2{
+    width: 10%;
+}
+#logo3{
+    width: 5%;
+}
+#logo4{
+    width: 9%;
+    height: 80px;
+    margin-bottom: 3px;
+    border: solid;
+}
+#logo5{
+    width: 8%;
+}
+#lastfooter{
+    background-color: rgb(10, 82, 10);
+    padding: 0.5%;
+    display: flex;
+}
+#place{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
